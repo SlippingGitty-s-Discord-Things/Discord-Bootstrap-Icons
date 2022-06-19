@@ -25,8 +25,11 @@
   
 </details>
 
-## Sources
-* [Bootstrap](https://icons.getbootstrap.com/)
 
 ## Themes that use this
 * [surCord](https://github.com/SlippingGitty/surCord) ~~my theme~~
+
+## Devs, Contributors, and other Creditors:
+| <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/twbs" target="_blank"> <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" alt="" width="96px" height="96px"> </a> |
+|:-:|:-:|
+| Vozer | Bootstrap |
