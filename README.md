@@ -7,13 +7,8 @@
 
 ~~original image from the [bootstrap website](https://icons.getbootstrap.com/)~~
 
-
-### REPO & PROJECT WIP
-
 <details>
 <summary>Screenshots</summary>
-  
-![image](https://user-images.githubusercontent.com/76500838/174454814-13f50b2e-3243-4a9e-b86d-f50365b1dba0.png)
 
 ![image](https://user-images.githubusercontent.com/76500838/174454834-659818e2-d799-4ab5-83df-00d56ef939c1.png)
 
