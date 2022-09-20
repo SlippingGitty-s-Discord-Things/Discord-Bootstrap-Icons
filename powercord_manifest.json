@@ -1,8 +1,8 @@
 {
-    "name": "Discord Bootstrap Icons",
+    "name": "Bootstrap Icons",
     "version": "1.0.0",
     "license": "MIT",
-    "theme": "bootstrap.theme.css",
+    "theme": "./assets/_index.scss",
     "author": "Vozer",
-    "description": "Human Interface Design inspired Icons for Discord"
+    "description": "Human Interface Design inspired Icons for Discord - Courtesy of Bootstrap"
 }
